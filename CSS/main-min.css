@@ -1,1 +1,1 @@
-body{background-color:#000;color:#fff}.grid-container{min-width:300px;min-height:200px;max-width:400px;max-height:300px;border:1px solid #fefefe;padding:.75rem}
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}body{margin:20px auto;font-size:"Lato";background-color:#666;color:#fff}h2{font-weight:bold;font-size:2rem}p{font-size:1rem;font-weight:normal}ul,li{list-style:none}ul{display:flex;flex-wrap:wrap;justify-content:center}ul li a{text-decoration:none;color:#000;background:#ffc;display:block;height:10em;width:10em;padding:1em}ul li{margin:1rem}
