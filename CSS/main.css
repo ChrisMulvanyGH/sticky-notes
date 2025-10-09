@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Reenie+Beanie&display=swap");
 /* Base Styling */
 *, *::before, *::after {
   margin: 0;
@@ -7,19 +8,23 @@
 
 body {
   margin: 20px auto;
-  font-size: "Lato";
+  font-family: "Lato", sans-serif;
   background-color: #666;
   color: #fff;
 }
 
-h2 {
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Lato", sans-serif;
   font-weight: bold;
+}
+
+h2 {
   font-size: 2rem;
 }
 
 p {
-  font-size: 1rem;
-  font-weight: normal;
+  font-family: "Reenie Beanie", cursive;
+  font-size: 2rem;
 }
 
 ul, li {
