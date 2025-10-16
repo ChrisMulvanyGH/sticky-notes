@@ -7,6 +7,7 @@
 - Create a list displaying each article from the JSON file.
 - Display the article title, and excerpt.
 - All data must be displayed within a PostIt note.
+- Link each article in articles.json to their relevant live URL.
 
 ## GitHub Page
 
