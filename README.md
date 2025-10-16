@@ -8,6 +8,10 @@
 - Display the article title, and excerpt.
 - All data must be displayed within a PostIt note.
 
+## GitHub Page
+
+- Live URL:  [https://chrismulvanygh.github.io/sticky-notes/](https://chrismulvanygh.github.io/sticky-notes/)
+
 ## References
 
 1. Heilmann, C. (2021). Create a Sticky Note Effect in 5 Easy Steps With CSS3 and HTML5. [online] Web Design Envato Tuts+. Available at: https://webdesign.tutsplus.com/create-a-sticky-note-effect-in-5-easy-steps-with-css3-and-html5--net-13934t [Accessed 16 Oct. 2025].
