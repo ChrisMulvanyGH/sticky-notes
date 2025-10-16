@@ -25,7 +25,7 @@
                 // For each article (post) in articles.json 
                 articles.forEach(post => {
                     // For each article add a list element to the list and display article title
-                    listEl.insertAdjacentHTML('beforeend', `<li><a href="#"><h3>${post.title}</h3><p>${post.Excerpt}</p></a></li>`);
+                    listEl.insertAdjacentHTML('beforeend', `<li><a href="${post.url}" target="_blank"><h3>${post.title}</h3><p>${post.Excerpt}</p></a></li>`);
 
                 });
             });

@@ -3,24 +3,28 @@
     {
         "id": 1,
         "title": "State of JavaScript 2025",
-        "Excerpt": "JavaScript, you OK? You've barely created any new front-end frameworks this year."
+        "Excerpt": "JavaScript, you OK? You've barely created any new front-end frameworks this year.",
+        "url": "https://survey.devographics.com/en-US/survey/state-of-js/2025"
     },
 
     {
         "id": 2,
         "title": "How Vite Became",
-        "Excerpt": "We talk to Evan You about Vite's journey from a prototype inspired by ES Modules to the industry-standard build tool. Also: Vite+ and AI."
+        "Excerpt": "We talk to Evan You about Vite's journey from a prototype inspired by ES Modules to the industry-standard build tool. Also: Vite+ and AI.",
+        "url": "https://thenewstack.io/how-vite-became-the-backbone-of-modern-frontend-frameworks/"
     },
 
     {
         "id": 3,
         "title": "Zero-configuration Express backends",
-        "Excerpt": "Express, a fast, unopinionated, minimalist web framework for Node.js, is now supported with zero-configuration."
+        "Excerpt": "Express, a fast, unopinionated, minimalist web framework for Node.js, is now supported with zero-configuration.",
+        "url": "https://vercel.com/changelog/zero-configuration-express-backends"
     },
 
     {
         "id": 4,
         "title": "Not Another Workflow Builder",
-        "Excerpt": "One of the most common requests we’ve gotten from day zero of LangChain has been a visual workflow builder."
+        "Excerpt": "One of the most common requests we’ve gotten from day zero of LangChain has been a visual workflow builder.",
+        "url": "https://blog.langchain.com/not-another-workflow-builder/"
     }
 ]
