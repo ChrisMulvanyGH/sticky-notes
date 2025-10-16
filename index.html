@@ -14,7 +14,12 @@
     
     <!-- JavaScript Article Listing -->
     <script>
-        
+        fetch('./articles.json')
+            .then(res => res.json())
+            // Get the parsed list of articles
+            .then(articles => {
+                console.log(articles);
+            })
     </script>
 </body>
 </html>
