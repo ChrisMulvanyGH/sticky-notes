@@ -14,12 +14,20 @@
     
     <!-- JavaScript Article Listing -->
     <script>
+        // get the list element
+        const listEl = document.querySelector('ul');
+
         fetch('./articles.json')
             .then(res => res.json())
             // Get the parsed list of articles
             .then(articles => {
-                console.log(articles);
-            })
+                // For each article (post) in articles.json 
+                articles.forEach(post => {
+                    // For each article add a list element to the list and display article title
+                    listEl.insertAdjacentHTML('beforeend', `<li><a href="#"><h3>${post.title}</h3><p>${post.Excerpt}</p></a></li>`);
+
+                });
+            });
     </script>
 </body>
 </html>
