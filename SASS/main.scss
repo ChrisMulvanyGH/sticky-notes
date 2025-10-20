@@ -3,6 +3,7 @@
 
 // Color Variables Test
 $primary: #666;
+$primary-alt: #0f0f23;
 $secondary: #fff;
 $alt: #000;
 
@@ -20,7 +21,7 @@ $text: "Lato", sans-serif;
 body {
     margin: 20px auto;
     font-family: $text;
-    background-color: $primary;
+    background-color: $primary-alt;
     color: $secondary;
 }
 
